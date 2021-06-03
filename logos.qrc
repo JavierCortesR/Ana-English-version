@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="iconos">
+    <file>B1.png</file>
+    <file>B2.png</file>
+    <file>logo.ico</file>
+    <file>logo.png</file>
+    <file>tepozotlan.png</file>
+    <file>Instituto_Nacional_de_Antropologia_e_Historia-logo-575C55E659-seeklogo.com.png</file>
+    <file>logoumb.png</file>
+  </qresource>
+</RCC>
